@@ -19,4 +19,4 @@
 
 
 <h3> :eyes: if you want to see the project visit the follow link </h3>
-<h4>https://fifaworldcup-countdown-project-vanilla-js.netlify.app/</h4>
+<h4> https://fifaworldcup-countdown-project-js.netlify.app/ </h4>
